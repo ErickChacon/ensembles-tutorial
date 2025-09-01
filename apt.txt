@@ -1,0 +1,3 @@
+libglu1-mesa
+freeglut3
+mesa-common-dev
